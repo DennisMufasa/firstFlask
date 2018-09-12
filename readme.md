@@ -1,4 +1,4 @@
-# steps 
+# pre-requisite
 
 <ul>
     <p><strong>Pre-requisite</strong></p>
@@ -6,6 +6,7 @@
     <li>pip</li>
 </ul>
 
+# steps
 <ol>
     <li>navigate to the directory containing your app <code>cd dirname</code></li>
     <li>setup a python env <code>python3 -m venv env</code></li>
